@@ -40,7 +40,7 @@ const Login = () => {
               setPassword(e.target.value);
             }}
           />
-          <button className="mt-5 bg-emerald-600 rounded-full text-white py-3 px-5 text-xl  outline-none bg-transparent ">
+          <button className="mt-5 bg-green-900 w-full rounded-full text-white py-3 px-5 text-xl  outline-none bg-transparent ">
             Login
           </button>
         </form>
